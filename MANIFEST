@@ -1,0 +1,10 @@
+MANIFEST
+Changes
+LICENSE
+Makefile.PL
+Build.PL
+META.yml
+README
+lib/Object/Releaser.pod
+lib/Object/Releaser.pm
+t/test.t
