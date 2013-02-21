@@ -2,7 +2,7 @@
 use strict;
 use Object::Releaser;
 use Test;
-BEGIN { plan tests => 4 };
+BEGIN { plan tests => 6 };
 
 # debugging tools
 # use Debug::ShowStuff ':all';

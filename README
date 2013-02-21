@@ -115,3 +115,7 @@ VERSION
 
       Initial release
 
+    Version 0.11 February 21, 2013
+
+      Fixed bug: incorrect number of test in test plan.
+

@@ -6,7 +6,7 @@ use strict;
 # use Debug::ShowStuff::ShowVar;
 
 # version
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 =head1 NAME
 
@@ -241,6 +241,10 @@ F<miko@idocs.com>
 =item Version 0.10    February 17, 2013
 
 Initial release
+
+=item Version 0.11    February 21, 2013
+
+Fixed bug: incorrect number of test in test plan.
 
 =back
 
