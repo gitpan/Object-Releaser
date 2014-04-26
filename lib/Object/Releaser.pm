@@ -6,7 +6,7 @@ use strict;
 # use Debug::ShowStuff::ShowVar;
 
 # version
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 =head1 NAME
 
@@ -245,6 +245,11 @@ Initial release
 =item Version 0.11    February 21, 2013
 
 Fixed bug: incorrect number of test in test plan.
+
+=item Version 0.12    April 25, 2014
+
+Fixed error in META.yml.
+
 
 =back
 

@@ -119,3 +119,7 @@ VERSION
 
       Fixed bug: incorrect number of test in test plan.
 
+    Version 0.12 April 25, 2014
+
+      Fixed error in META.yml.
+

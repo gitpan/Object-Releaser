@@ -4,11 +4,11 @@ author:
     - "Miko O'Sullivan <miko@idocs.com>"
 generated_by: home grown
 license: perl
-name: Object::Releaser
+name: Object-Releaser
 provides:
     Object::Releaser:
         file: lib/Object/Releaser.pm
-        version: 0.11
+        version: 0.12
 requires:
     perl: 5.003
-version: 0.11
+version: 0.12
